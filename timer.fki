@@ -1,0 +1,4 @@
+function wait{number)
+  time:number
+  ping 127.0.0.1 time
+)}
