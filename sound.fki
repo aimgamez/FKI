@@ -1,0 +1,4 @@
+function sound{play/add(
+  add:self.add.string
+  play:fki.playSound:add
+)}
